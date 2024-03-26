@@ -1,7 +1,0 @@
-.triangle{
-    position: absolute;
-    z-index: 1;
-    right: 0;
-    transform: scaleX(-1);
-}
-  
