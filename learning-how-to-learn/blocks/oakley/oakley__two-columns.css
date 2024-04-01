@@ -1,0 +1,11 @@
+
+.oakley .two-columns {
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 80%;
+    min-width: 784px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
